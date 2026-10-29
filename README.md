@@ -49,6 +49,7 @@ Aprendi nessas ultimas semanas alguns sitemas. Como o uso de HASH e como utiliza
 
 ## URL
 
+https://repositorio-demonstracao.streamlit.app/git add .
 
 ## LOGIN
 usuario = demo
