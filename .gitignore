@@ -1,0 +1,8 @@
+# Segredos do app (usuário, salt e hash do login)
+.streamlit/secrets.toml
+
+# Banco de dados com os dados de venda
+*.db
+
+# Arquivos gerados pelo Python
+__pycache__/
