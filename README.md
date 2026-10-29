@@ -44,4 +44,15 @@ paginas/           # uma tela por arquivo
 ```
 
 ## O que aprendi
-Nessas ultimas semanas praticando esse projeto aprendi muito mais sobre python e como corrigir meus erros. Fiquei surpreso com tantas bibliotecas novas que conheci. E como iniciante na área de programação me sinto feliz com meu primeiro projeto
+Aprendi nessas ultimas semanas alguns sitemas. Como o uso de HASH e como utilizar ele de forma correta, e como funciona, aprendi sobre a biblicoteca SQL, melhorei muitos pontos no sistema do streamlit.
+    Entendo que tenho muitas coisas para melhorar, porem como meu primeiro projeto, me sinto feliz e satisfeito
+
+## URL
+
+
+## LOGIN
+usuario = demo
+senha = 1234
+
+# AVISO 
+Banco de dados temporario, apenas para uso de demonstração.
