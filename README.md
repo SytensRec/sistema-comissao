@@ -51,9 +51,5 @@ Aprendi nessas ultimas semanas alguns sitemas. Como o uso de HASH e como utiliza
 
 https://repositorio-demonstracao.streamlit.app/git add .
 
-## LOGIN
-usuario = demo
-senha = 1234
-
 # AVISO 
 Banco de dados temporario, apenas para uso de demonstração.
